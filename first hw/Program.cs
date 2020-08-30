@@ -6,7 +6,7 @@ namespace first_hw
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World how is it going?!");
             Console.WriteLine("Press any key to continue");
             Console.ReadKey();
 
